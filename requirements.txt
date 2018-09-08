@@ -1,0 +1,3 @@
+quart==0.6.4
+git+git://github.com/davidchua/pymessenger.git
+gunicorn==19.6.0
