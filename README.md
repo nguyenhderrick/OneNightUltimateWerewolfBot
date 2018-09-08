@@ -1,2 +1,2 @@
 # OneNightUltimateWerewolfBot
-A facebook messenger bot to facilitate playing the board game One Night Ultimate Werewolf
+A facebook messenger bot to facilitate playing the board game One Night Ultimate Werewolf.
